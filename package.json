@@ -16,7 +16,17 @@
     "historical",
     "import"
   ],
-  "author": "Andrew Nichols <anichols@manta.com>",
+  "author": {
+    "name": "Mantacode",
+    "email": "code@manta.com",
+    "url": "http://engineering.manta.com"
+  },
+  "contributors": [
+    {
+      "name": "Andrew Nichols",
+      "email": "tandrewnichols@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mantacode/mixpanel-event-import/issues"
