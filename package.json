@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/mantacode/mixpanel-event-import/issues"
   },
-  "homepage": "https://github.com/mantacode/mixpanel-event-import"
+  "homepage": "https://github.com/mantacode/mixpanel-event-import",
+  "dependencies": {
+    "commander": "^2.3.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "mixpanel": "./index.js"
+  }
 }
