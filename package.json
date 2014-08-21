@@ -23,7 +23,13 @@
   },
   "homepage": "https://github.com/mantacode/mixpanel-event-import",
   "dependencies": {
-    "commander": "^2.3.0"
+    "async": "^0.9.0",
+    "chalk": "^0.5.1",
+    "commander": "^2.3.0",
+    "fast-csv": "^0.4.4",
+    "moment": "^2.8.1",
+    "request": "^2.40.0",
+    "underscore": "^1.6.0"
   },
   "preferGlobal": true,
   "bin": {
